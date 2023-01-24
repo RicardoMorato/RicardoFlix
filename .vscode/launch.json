@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-RicardoflixApplication<ricardoflix>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "dev.ricardomorato.ricardoflix.RicardoflixApplication",
+      "projectName": "ricardoflix",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
